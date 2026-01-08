@@ -1,7 +1,7 @@
 # Li-An Song
 ![Profile Photo](avatar-man.jpg)
 
-Seattle, Washington | username@email.com | +1 (234) 567-8910
+Seattle, Washington | username@email.com | +1 (234) 567-8910  
 [LinkedIn](https://www.linkedin.com/in/li-an-song-aa09752a9/) | [GitHub](https://github.com/latw12345)
 
 ---
